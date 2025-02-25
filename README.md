@@ -15,3 +15,15 @@ Tools: PostgreSQL with PGVector, Supabase (optional hosting), Python (backend), 
 
 
 Deliverables: GitHub repo, code walkthrough video, functional app, and analysis.
+
+load_data.py: Sets up the Supabase database table.
+
+
+embed_data.py: Loads FinanceBench data with dense and sparse vectors.
+
+
+search.py: Implements dense and hybrid search logic.
+
+
+app.py: Runs the Streamlit frontend.
+
